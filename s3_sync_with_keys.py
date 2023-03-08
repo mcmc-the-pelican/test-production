@@ -3,8 +3,8 @@ import StringIO
 import hashlib
 import boto3
 
-ACCESS_KEY = "AKIAR3BRNOQR6RLTGAEN"
-SECRET_KEY = "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"
+ACCESS_KEY = "AKIAR3BRNOQR3K5DBQUY"
+SECRET_KEY = "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"
 BUCKET = ""
 FILE_ROOT = ""
 
